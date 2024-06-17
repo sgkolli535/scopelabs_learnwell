@@ -25,7 +25,7 @@ By Sumi Kolli
 ### Video Details
 
 ![player](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/learnwell/player.png?raw=true)
-![video detail](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/leanwell/videodetail2.png?raw=true)
+![video detail](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/learnwell/videodetail2.png?raw=true)
 ![comments](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/learnwell/comments.png?raw=true)
 
 ### About
