@@ -9,7 +9,7 @@ By Sumi Kolli
 
 ### Homepage
 
-![landing](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/landing.png?raw=true)
+![landing](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/learnwell/landing.png?raw=true)
 ![hero](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/hero.png?raw=true)
 ![features](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/features.png?raw=true)
 ![testimonials](https://github.com/sgkolli535/scopelabs_learnwell/blob/main/testimonials.png?raw=true)
